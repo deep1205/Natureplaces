@@ -18,6 +18,4 @@ Animation used-
 
 Created by ~ Deepesh Arya,IIT BHU ,Electrical Engineering
 
-Output images of websites 
-[Nature World1] url(./Output1.png)
-[Nature World2] url(./Output2.png)
+[natureworld] url(./Output1.png)
