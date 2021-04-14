@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Natureplaces/static/css/main.5afe81dd.chunk.css",
+    "main.js": "/Natureplaces/static/js/main.ad530ce9.chunk.js",
+    "main.js.map": "/Natureplaces/static/js/main.ad530ce9.chunk.js.map",
+    "runtime-main.js": "/Natureplaces/static/js/runtime-main.fa28b4dc.js",
+    "runtime-main.js.map": "/Natureplaces/static/js/runtime-main.fa28b4dc.js.map",
+    "static/css/2.459d3068.chunk.css": "/Natureplaces/static/css/2.459d3068.chunk.css",
+    "static/js/2.ca1e6fcd.chunk.js": "/Natureplaces/static/js/2.ca1e6fcd.chunk.js",
+    "static/js/2.ca1e6fcd.chunk.js.map": "/Natureplaces/static/js/2.ca1e6fcd.chunk.js.map",
+    "static/js/3.641d66fa.chunk.js": "/Natureplaces/static/js/3.641d66fa.chunk.js",
+    "static/js/3.641d66fa.chunk.js.map": "/Natureplaces/static/js/3.641d66fa.chunk.js.map",
+    "index.html": "/Natureplaces/index.html",
+    "static/css/2.459d3068.chunk.css.map": "/Natureplaces/static/css/2.459d3068.chunk.css.map",
+    "static/css/main.5afe81dd.chunk.css.map": "/Natureplaces/static/css/main.5afe81dd.chunk.css.map",
+    "static/js/2.ca1e6fcd.chunk.js.LICENSE.txt": "/Natureplaces/static/js/2.ca1e6fcd.chunk.js.LICENSE.txt",
+    "static/media/img1.67960148.jpg": "/Natureplaces/static/media/img1.67960148.jpg",
+    "static/media/img2.fb60dbc9.jpg": "/Natureplaces/static/media/img2.fb60dbc9.jpg",
+    "static/media/img3.16aa1d89.jpg": "/Natureplaces/static/media/img3.16aa1d89.jpg",
+    "static/media/img4.b4df908c.jpg": "/Natureplaces/static/media/img4.b4df908c.jpg",
+    "static/media/img5.85cd913b.jpg": "/Natureplaces/static/media/img5.85cd913b.jpg",
+    "static/media/img6.ba1c9274.jpg": "/Natureplaces/static/media/img6.ba1c9274.jpg",
+    "static/media/img7.1e0228e1.jpg": "/Natureplaces/static/media/img7.1e0228e1.jpg",
+    "static/media/img8.c4fb236e.jpg": "/Natureplaces/static/media/img8.c4fb236e.jpg",
+    "static/media/img9.d25deeda.jpg": "/Natureplaces/static/media/img9.d25deeda.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa28b4dc.js",
+    "static/css/2.459d3068.chunk.css",
+    "static/js/2.ca1e6fcd.chunk.js",
+    "static/css/main.5afe81dd.chunk.css",
+    "static/js/main.ad530ce9.chunk.js"
+  ]
+}
