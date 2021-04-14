@@ -18,4 +18,4 @@ Animation used-
 
 Created by ~ Deepesh Arya,IIT BHU ,Electrical Engineering
 
-[natureworld] url(./Output1.png)
+
