@@ -10,7 +10,7 @@ const Footer = () => {
           <h1 className=" pt-4 f4 text-center text-white">
             Copyright 2021 @ Deepesh arya
           </h1>
-          <div className="w-100 bg-black-50">
+          <div className="w-100 bg-black-50 mx-auto">
             <a
               className="link white-60 bg-transparent hover-white inline-flex items-center ma2 tc br2 pa2"
               href="https://www.facebook.com/deepesh.arya.129"
