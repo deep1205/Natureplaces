@@ -19,7 +19,6 @@ const Card = () => {
   return (
     <>
       <div className="container_fluid">
-        ]
         <div className="container mt-4 bg-grey">
           <div className="row mx-auto mb-4">
             <div className="s1 mt-5 grow mx-auto col-10 col-md-4 col-4">
