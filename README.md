@@ -17,3 +17,7 @@ Animation used-
 
 
 Created by ~ Deepesh Arya,IIT BHU ,Electrical Engineering
+
+Output images of websites 
+1-[Nature's World1]url(/Output1.png)
+2-[Nature's World2] url(/Output2.png)
