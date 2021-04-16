@@ -1,7 +1,7 @@
 # Natureplaces
 
 This website is made by Using React ,Html ,css and javascript.
-some other librarya tachyons and bootstrap is used for designing the website.
+some other libraries tachyons and bootstrap is also used for designing the website.
 
 Watch live demo of this website on -'https://deep1205.github.io/Natureplaces' 
 
